@@ -21,6 +21,6 @@ python -u main.py \
     -size 224 \
     -save_result \
     -test_only \
-    -ckpt 80 \
+    -ckpt 74 \
     -resume \
 2>&1 | tee test.log
