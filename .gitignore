@@ -97,3 +97,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# IDE workspace
+.idea
+
+# PyTorch checkpoints
+*.pth
