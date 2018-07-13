@@ -1,6 +1,6 @@
 # Team 100141 *Novacula*
 
-# Environment Requiremensts
+# Environment Requirements
 - Python 3.6
 - OpenCV2
 - PyTorch 0.4.0
